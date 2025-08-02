@@ -3,24 +3,6 @@
 🎓 B.Tech IT student @ Manakula Vinayagar Institute of Technology<br/>
 💻 Front-end enthusiast | 🎨 Visual storyteller | 💡 Idea explorer<br/>
 
----
-
-## 🌟 What I Do
-
-- Build clean, responsive UIs with `HTML` & `CSS`  <br/>
-- Design creative content using `Canva` & `Photoshop`  <br/>
-- Blend **tech, design, and purpose** in every project  
-
----
-
-## 🧠 I'm Passionate About
-
-- Creating tech that's simple, useful, and human-focused  <br/>
-- Exploring new ideas (like fashion + chemistry innovation!) <br/> 
-- Working in teams or solo with creativity & clarity  <br/>
-
----
-
 ## 🚀 Seeking
 
 - 🌱 Internship opportunities  <br/>
