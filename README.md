@@ -14,9 +14,9 @@
 ## 📫 Let's Connect
 
 - 💼 LinkedIn - Navamani_b <br/>
-- 📬 Email - navamanib01@email.com
+- 📬 Email - navamanib01@gmail.com
 
-> *"Build with heart. Design with intent."*
+
 
 
 # 💻 Tech Stack:
@@ -32,5 +32,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BKNavamani&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
